@@ -35,7 +35,7 @@ Governments, insurers, patient organizations, pharmaceutical and biotech compani
 
 First, I cleaned up and processed the drug spending data available from Medicare for the years 2011-2015. This data includes the total spending, claim number, and beneficiary number --among others-- for each drug identified by its brand and generic names.
 
-I also processed the data from the Therapeutic Targets Database, which presents the indications (diseases) associated with a drug generic name.
+I also processed the data from the Therapeutic Targets Database, which presents the indications (diseases) associated with a drug generic name. 
 
 Then, I used a fuzzy logic algorithm to match each drug generic name of the Medicare data with the closest element from the Therapeutic Targets Database. After having a list of exact matches, I assigned the first associated indication to each Medicare drug.
 
@@ -43,7 +43,7 @@ Then, I used a fuzzy logic algorithm to match each drug generic name of the Medi
 
 ### Diabetes is the disease with the highest drug spending in the 5-year interval
 
-Diabetes treatment is expensive and the drug spending from Medicare is very large.
+Diabetes has the largest single-disease drug spending costs. However, it must be noted that _cancer is a very high-cost disease too._ The reason for this is that _cancer is actually a group of a multitude of different diseases_ with different genetics, origin, and treatment options. These diseases were not clustered in this analysis.
 
 Harvoni is the most expensive drug.
 
