@@ -47,7 +47,7 @@ Diabetes has the largest single-disease drug spending costs. However, it must be
 
 Harvoni is the most expensive drug.
 
-![Plot 1](https://github.com/dariodata/medicare-drug-cost/blob/master/Top_50_indications_spending.png)
+![Top 40 diseases and drugs by total spending](https://github.com/dariodata/medicare-drug-cost/blob/master/Top_40_disease_drug.png)
 
 ### Drug spending is growing but the cost weight is not evenly distributed
 
