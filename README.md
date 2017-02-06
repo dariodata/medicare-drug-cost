@@ -8,7 +8,14 @@ _February 6, 2017_
 
 ## Summary
 
-Health care sytems are under growing cost pressure world-wide. Particularly in developed countries, the availability of the latest advancements in medicine contrasts with the challenge of making those medicines available to as many patients as possible. It is imperative to find ways to minimize costs and maximize the positive impact on the quality of life of patients. For this purpose I performed an analysis of the Medicare system spending on drugs in the USA. Furthermore I used a drug-disease matching open database to classify spending according to disease treated. After this analysis I propose the in-depth analysis of further open data. 
+Health care systems are under growing cost pressure world-wide. Particularly in developed countries, the considerable 
+advancement in medicine contrasts with the challenge of making those medicines available to as many 
+patients as possible. It is imperative to find ways to minimize costs and maximize the positive impact on the quality
+ of life of patients. For this purpose I performed an analysis of the Medicare system spending on drugs in the USA. 
+ Furthermore I used a drug-disease matching open database to classify spending according to disease treated. I 
+ identified the most expensive diseases (mostly chronic) and the most expensive medicines. A drug for the 
+ treatment of HCV infection (Harvoni) stands out. After this analysis I propose the in-depth analysis of further 
+ open data to enable more targeted conclusions and recommendations to improve health care.
 
 ## Relevance
 
