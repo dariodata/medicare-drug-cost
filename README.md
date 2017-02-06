@@ -41,15 +41,44 @@ Then, I used a fuzzy logic algorithm to match each drug generic name of the Medi
 
 ## Results
 
-### Diabetes is the disease with the highest drug spending in the 5-year interval
+### Figure 1: Most expensive drugs and indications by total spending in a 5-year interval
 
-Diabetes has the largest single-disease drug spending costs. However, it must be noted that _cancer is a very high-cost disease too._ The reason for this is that _cancer is actually a group of a multitude of different diseases_ with different genetics, origin, and treatment options. These diseases were not clustered in this analysis.
-
-Harvoni is the most expensive drug.
+#### Indications (left part)
 
 ![Top 40 diseases and drugs by total spending](https://github.com/dariodata/medicare-drug-cost/blob/master/Top_40_disease_drug.png)
 
+A look at the total spending for the 5-year period 2011-2015 reveals that the bulk of drug spending is covered by a 
+small set of diseases/indications (left graph). The total spending per indication decreases rapidly by going down the 
+list of drugs.
+
+Diabetes occupies the first place in this list with a total 5-year spending exceding $50 billion. Following in the 
+list, we find other chronic diseases such as schizophrenia, chronic obstructive pulmonary disease, hypertension (high
+ blood pressure), hypercholesterolemia (high cholesterol), depression, hiv infections, multiple sclerosis, peptic 
+ ulcer disease, and chronic HCV infection (hepatitis C). Interestingly, pain medications are also in the top 4 
+ indications by total spending.
+ 
+It makes sense that treatment of chronic diseases receives the highest investment in drug spending, as patients with 
+these diseases can live long lives when medicated.
+
+Interestingly, the first cancer reaches only the 19th place of this list (chronic myelogenous leukemia). However, it 
+must be noted that _cancer is actually a collection of different diseases_ with different genetics, origin, and 
+treatment options. These different cancers were not clustered in this analysis.
+
+#### Drugs (right part)
+
+When we look at the most expensive drugs for the total 5-year spending, we find on the top of the list: Lantus 
+(insulin), nexium (peptic ulcer), and crestor(anti cholesterol). It makes sense as these are medicines to treat chronic 
+diseases.
+
+However, we cannot learn much on a high level from looking at the total spending only. Therefore, a closer look is 
+needed.
+
+
 ### Drug spending is growing but the cost weight is not evenly distributed
+
+![Most expensive drugs in 2015](https://github.com/dariodata/medicare-drug-cost/blob/master/Top_bubble_disease_drug.png)
+
+Harvoni is the most expensive drug.
 
 
 ## Limitations
