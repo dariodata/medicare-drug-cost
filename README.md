@@ -1,7 +1,5 @@
 # Analysis of Medicare drug cost data 2011-2015
 
-Project proposal for The Data Incubator Challenge
-
 _Dario Arcos-Diaz_
 
 _February 6, 2017_
